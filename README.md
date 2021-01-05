@@ -1,2 +1,0 @@
-# Inverseli.github.io
-blog
